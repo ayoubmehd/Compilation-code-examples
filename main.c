@@ -1,4 +1,5 @@
 // #include "header.h"
+#include <stdio.h>
 #define COUNT 10
 /*
  * Hey I'm a comment :
@@ -12,10 +13,12 @@ int main() {
 
     // print();
 
-    // while (i < COUNT)
-    // {
-    //     i++;
-    // }
+    while (i < COUNT)
+    {
+        i++;
+    }
+
+    printf("%d\n", COUNT);
 
     return 0;
 }
