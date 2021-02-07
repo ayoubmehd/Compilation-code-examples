@@ -17,5 +17,5 @@ gcc -c main.c
 
 ## Linking
 ```shell
-gcc -c main.c
+gcc main.c
 ```
