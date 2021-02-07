@@ -1,21 +1,21 @@
 # Compilation code examples
 
 ## The preprocessing
-``shell
+```shell
 gcc -E main.c
-``
+```
 
 ## The compiling
-``shell
+```shell
 gcc -S main.c
-``
+```
 
 ## Assambling
-``shell
+```shell
 gcc -c main.c
-``
+```
 
 ## Linking
-``shell
+```shell
 gcc -c main.c
-``
+```
