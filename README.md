@@ -10,7 +10,7 @@ gcc -E main.c
 gcc -S main.c
 ```
 
-## Assambling
+## Assembling
 ```shell
 gcc -c main.c
 ```
